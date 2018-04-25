@@ -1,2 +1,3 @@
 # CBE40448
-Chemcial Process Design Final Project
+Chemical Process Design Final Project
+[MMA Economic Analysis](MMA Process Forecasts.ipynb)
