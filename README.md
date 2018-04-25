@@ -2,4 +2,4 @@
 Chemical Process Design Final Project
 
 
-1. [MMA Economic Analysis](CBE40448/MMA Process Forecasts.ipynb)
+1. [MMA Economic Analysis](https://github.com/sarahgraney/CBE40448/blob/master/MMA%20Process%20Forecasts.ipynb)
